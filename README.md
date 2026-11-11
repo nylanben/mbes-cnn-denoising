@@ -142,5 +142,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [MIT License — see the LICENSE file.]
 
+---
 
 This README was written with the assistance of generative AI (Claude Sonnet 5.5).
